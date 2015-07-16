@@ -1,0 +1,30 @@
+#cborderbycouponforwoocommerce_dropdown_order_coupon{
+
+    margin: 8px 0px;
+}
+.cborderbycouponforwoocommerce_coupon_filter{
+
+    margin: 8px 0px!important;
+    background-position: 20px 14px!important;
+    background-repeat: no-repeat!important;
+    background-size: 24px 24px!important;
+
+}
+.cborderbycoupon_active{
+
+    margin: 8px 0px!important;
+    background-position: 20px 14px!important;
+    background-repeat: no-repeat!important;
+    background-size: 24px 24px!important;
+    background-image: url(busy.gif)  !important;
+
+}
+
+.chosen-container input{
+    height: 30px!important;;
+}
+
+.cbcouponrefer_ajax_icon img{
+    width: 24px;
+    height: 24px;
+}
